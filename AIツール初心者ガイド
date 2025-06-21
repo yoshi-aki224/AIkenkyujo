@@ -1,0 +1,76 @@
+<!DOCTYPE html><html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AIツール初心者ガイド</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      background: #f9f9f9;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background-color: #4A90E2;
+      color: white;
+      padding: 1em;
+      text-align: center;
+    }
+    .container {
+      max-width: 960px;
+      margin: auto;
+      padding: 2em;
+    }
+    .tool {
+      background: white;
+      border-radius: 10px;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+      padding: 1.5em;
+      margin-bottom: 1.5em;
+    }
+    .tool h2 {
+      margin-top: 0;
+      color: #333;
+    }
+    .tool p {
+      color: #555;
+    }
+    footer {
+      text-align: center;
+      font-size: 0.9em;
+      padding: 1em;
+      color: #888;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>初心者のためのAIツールガイド</h1>
+    <p>人気のAIサービスをわかりやすく紹介</p>
+  </header>
+  <div class="container"><div class="tool">
+  <h2>ChatGPT</h2>
+  <p>OpenAIが開発した会話型AI。質問に答えたり、文章を作成したりできます。日常の疑問解決やアイデア出しにも便利です。</p>
+</div>
+
+<div class="tool">
+  <h2>Canva AI</h2>
+  <p>画像・デザイン作成ツールCanvaのAI機能。プレゼンやSNS画像を自動生成でき、初心者でも簡単におしゃれなデザインが作れます。</p>
+</div>
+
+<div class="tool">
+  <h2>DeepL翻訳</h2>
+  <p>高精度な翻訳ができるAIツール。英語だけでなく多言語にも対応し、ビジネス文書にも適しています。</p>
+</div>
+
+<div class="tool">
+  <h2>Sora (動画生成AI)</h2>
+  <p>OpenAIが開発したテキストから動画を作成するAI。今後注目される次世代の映像制作ツールです。</p>
+</div>
+
+  </div>
+  <footer>
+    &copy; 2025 AIツール初心者ガイド
+  </footer>
+</body>
+</html>
